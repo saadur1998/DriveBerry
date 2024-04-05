@@ -1,0 +1,6 @@
+Green
+Person
+stop sign
+Limit 25
+Limit 40
+stop sign
