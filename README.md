@@ -1,4 +1,4 @@
-# driveberry: A Raspberry Pi Based Autonomous Vehicle
+# DriveBerry: A Raspberry Pi Based Autonomous Vehicle
 
 ## Introduction
 
